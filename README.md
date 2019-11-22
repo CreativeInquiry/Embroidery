@@ -1,6 +1,6 @@
 # STUDIO Embroidery Machine
 
-This repository contains instructions for the use and maintenance of the STUDIO's computerized embroidery machine, a Viking Jade 35. This document was authored by Tatyana Mustakos (Github: @tatyanade), October 2019.
+This repository contains instructions for the use and maintenance of the STUDIO for Creative Inquiry's computerized embroidery machine, a Husqvarna [Viking Designer Jade 35](http://www.husqvarnaviking.com/en-US/Machines/DESIGNER-JADE-35). This document was authored by Tatyana Mustakos (Github: @tatyanade), October 2019.
 
 ---
 
