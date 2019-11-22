@@ -37,7 +37,7 @@ This repository contains instructions for the use and maintenance of the STUDIO 
        - [rethreading the needle](#rethreading-the-needle)
        - [Changing Color for Multicolored Embroideries](#changing-color-for-multicolored-embroideries)
      + [Finishing the Embroidery](#finishing-the-embroidery)
-       
+ - [Software](#Software)       
 
 ---
  
@@ -267,5 +267,24 @@ If you're design has multiple colors, the machine will stop after it is done wit
 
 When the emboridery is done, the screen will let you know. Cut the thread and Remove the hoop. Open the hoop and take out the embrodiery
 
+# Software
 
+## PremierPlus
 
+Free version with limited features
+https://www.premierplusembroidery.com/en/Downloads/PP-Software-Downloads
+
+## InkStitch
+
+free add on for inkscape
+https://inkstitch.org/
+
+## Sewart
+
+30-day free trial
+https://www.thebabysbooty.com/sewart
+
+## EmbroiderPY/EmbroideryIO
+
+Python/Java library for exporting embroidery files
+https://github.com/EmbroidePy
