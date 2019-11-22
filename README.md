@@ -1,3 +1,11 @@
+# STUDIO Embroidery Machine
+
+This repository contains instructions for the use and maintenance of the STUDIO's computerized embroidery machine, a Viking Jade 35. This document was authored by Tatyana Mustakos (Github: @tatyanade), October 2019.
+
+---
+
+# Contents
+
 - [Using the Embroidery Machine](#using-the-Embroidery-Machine)
   * [Turning on the Machine](#turning-on-the-machine)
   * [Preparing the Machine for Embroidery](#preparing-the-machine-for-embroidery)
@@ -31,13 +39,9 @@
      + [Finishing the Embroidery](#finishing-the-embroidery)
        
 
-   
-   
-   
-   
-    
+---
+ 
 # Using the Embroidery Machine
-
 
 *illustrations grabbed from machine [manual](Manual.pdf)*
 
