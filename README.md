@@ -43,7 +43,7 @@ This repository contains instructions for the use and maintenance of the STUDIO'
  
 # Using the Embroidery Machine
 
-*illustrations grabbed from machine [manual](Manual.pdf)*
+*Illustrations grabbed from the Viking Jade 35 [manual](Manual.pdf), a copy of which has been stored here.*
 
 ## Turning on the Machine
 
