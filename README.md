@@ -10,6 +10,7 @@ This repository contains instructions for the use and maintenance of the STUDIO 
   * [Turning on the Machine](#turning-on-the-machine)
   * [Preparing the Machine for Embroidery](#preparing-the-machine-for-embroidery)
     + [Changing the Needle](#changing-the-needle)
+      - [Needle Types](#needle-types)
     + [Changing the Foot](#changing-the-foot)
     + [Changing the Unit](#changing-the-unit)
   * [Preparing to Embroider](#preparing-to-embroider)
@@ -64,6 +65,22 @@ You will need to change the needle if the needle is broken, or if you need to sw
 ![Changing the needle](./images/changing_the_needle.PNG)
 
 Loosen the needle screw with the screwdriver, this will allow you to pull the needle out through the bottom. Once it's out, you can insert the new needle upwards with the flat side away from you. Push it all the way up, and then tighten the needle screw with the screwdriver
+
+#### Needle Types
+
+![Universal Needle](./images/universal_needle.PNG)
+
+Universal needles have a slightly rounded point and come in
+a variety of sizes. For general sewing on a variety of fabric
+types and weights
+
+![embroidery needle](./images/embroidery_needle.PNG)
+
+Embroidery needles have a special scarf, a slightly rounded
+point and a slightly larger eye to avoid damage to thread and
+materials. Use with metallic and other specialty threads for
+embroidery and decorative sewing.
+
 
 ### Changing the foot
 *make sure the machine is off*
