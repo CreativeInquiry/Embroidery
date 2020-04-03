@@ -88,7 +88,7 @@ embroidery and decorative sewing.
 
 With the power off, remove the current foot.
 
-![2019-09-20_20h10_43.png](./images/0_feet.png)
+![0_feet.png](./images/0_feet.png)
 
 
 ### Changing the Unit
