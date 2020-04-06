@@ -98,9 +98,7 @@ With the power off, remove the current foot by sliding it towards you - it shoul
 #### Attaching Embroidery foot
  <!-- ![0_feet.png](./images/0_feet.png) -->
 
- ![attaching_foot_U
-.png](./images/attaching_foot_U
-.png)
+![attaching_foot_U.png](./images/attaching_foot_U.png)
 
 ### Changing the Unit
 *make sure the machine is off*
