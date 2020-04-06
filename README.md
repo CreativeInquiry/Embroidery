@@ -96,9 +96,25 @@ With the power off, remove the current foot by sliding it towards you - it shoul
 ![changing_foot.PNG](./images/changing_foot.PNG)
 
 #### Attaching Embroidery foot
- <!-- ![0_feet.png](./images/0_feet.png) -->
 
-![attaching_foot_U.PNG](./images/attaching_foot_U.PNG)
+![0_feet.png](./images/0_feet.png)
+
+<!-- ![attaching_foot_U.PNG](./images/attaching_foot_U.PNG) -->
+1. Turn off the power switch to prevent accidents.
+2. Turn the hand wheel toward you until the needle is at its
+highest point.
+3. Raise the presser foot.
+4. Remove the presser foot and holder by removing the
+presser foot screw (A).
+5. Change the needle to an embroidery needle (B)
+6. Attach the Embroidery/Darning Foot U to the presser
+bar (C) so that the arm (D) of foot rides on the shaft (E)
+of the needle clamp.
+7. Attach the presser foot screw (A) and tighten it. For
+easier access, lower the needle slightly.
+
+
+
 
 ### Changing the Unit
 *make sure the machine is off*
