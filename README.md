@@ -89,6 +89,7 @@ embroidery and decorative sewing.
 The two relevant feet to this guide are Utility Foot A, used for general sewing, and Embroidery/Darning Foot U.
 ![utility_foot.PNG](./images/utility_foot.PNG)
 ![embroidery_foot.PNG](./images/embroidery_foot.PNG)
+
 *for full list of feet, view page 9 of manual*
 
 #### Switching Utility Feet
@@ -106,6 +107,8 @@ highest point.
 3. Raise the presser foot.
 4. Remove the presser foot and holder by removing the
 presser foot screw (A).
+![photo_attach_foot_U.PNG](./images/photo_attach_foot_U.PNG)
+
 5. Change the needle to an embroidery needle (B)
 6. Attach the Embroidery/Darning Foot U to the presser
 bar (C) so that the arm (D) of foot rides on the shaft (E)
