@@ -85,11 +85,22 @@ embroidery and decorative sewing.
 ### Changing the foot
 *make sure the machine is off*
 
+#### Different Feet
+The two relevant feet to this guide are Utility Foot A, used for general sewing, and Embroidery/Darning Foot U.
+![utility_foot.PNG](./images/utility_foot.PNG)
+![embroidery_foot.PNG](./images/embroidery_foot.PNG)
+*for full list of feet, view page 9 of manual*
 
-With the power off, remove the current foot.
+#### Switching Utility Feet
+With the power off, remove the current foot by sliding it towards you - it should snap in and out of place
+![changing_foot.PNG](./images/changing_foot.PNG)
 
-![0_feet.png](./images/0_feet.png)
+#### Attaching Embroidery foot
+ <!-- ![0_feet.png](./images/0_feet.png) -->
 
+ ![attaching_foot_U
+.png](./images/attaching_foot_U
+.png)
 
 ### Changing the Unit
 *make sure the machine is off*
